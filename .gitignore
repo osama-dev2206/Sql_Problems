@@ -1,0 +1,17 @@
+# SQL Server files
+*.bak
+*.trn
+*.mdf
+*.ldf
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Ignore push scripts
+push.bat
+push.ps1
